@@ -1,0 +1,10 @@
+# Ignore dataset folder
+ILSVRC/
+
+# Ignore Python bytecode and cache
+__pycache__/
+*.pyc
+
+# Optional: Ignore large model weights and logs
+*.pth
+*.log
